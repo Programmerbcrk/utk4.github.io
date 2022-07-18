@@ -1,30 +1,27 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Programmerbcrk/utk4.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[RB Battles](https://www.roblox.com/games/5036207802/RB-Battles-BUSY?AssetId=5036207802) **(51,240,762 ziyaret)**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Blox Royale](https://www.roblox.com/games/5459365973/Blox-Royale-Battlegrounds) **(5,174,806 ziyaret)**
 
-### Markdown
+[The Olympian's Ice Skating Rink](https://www.roblox.com/games/6661933183/The-Olympians-Ice-Skating-Rink) **(1,782,897 ziyaret)**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ve toplamda ***60,000,000 ziyaret!***
 
-```markdown
-Syntax highlighted code block
+Katkıda bulunduğu oyunlarla ilgili bilgi almak için [burayı](https://talent.roblox.com/creators/928919762) ziyaret edebilirsin.
 
-# Header 1
-## Header 2
-### Header 3
+### BAŞARILAR
 
-- Bulleted
-- List
+- 2022 Roblox Türkiye Büyükelçisi
+- Roblox Türkçe Konuşan Geliştiriciler Grubunun Kurulmasını Sağlayan Geliştirici
+- Roblox Türk Geliştiriciler Grubunun Kurulmasını Sağlayan Geliştirici
+- 2022 Roblox Türkiye Geliştirici İlişkileri Ekibi Yetkilisi (Personel olmayarak)
 
-1. Numbered
-2. List
+`Lütfen Unutmayın! Ben Roblox personeli değilim. Hesap ve diğer sorunlar için Roblox Support'a başvurun.`
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+### ROBLOX'TAKİ HAREKETLERİM
+Roblox platformunda 4+ yıldan beri geliştiriciyim.
+Şu anda sadece roblox.com'dan gelen işlerle ilgileniyorum. Portfolyomu incelemek için [buraya](https://sites.google.com/view/programmerbcrk/portfolio) tıklayabilirsin.
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
