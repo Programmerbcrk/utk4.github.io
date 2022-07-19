@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome!
 
 [RB Battles](https://www.roblox.com/games/5036207802/RB-Battles-BUSY?AssetId=5036207802) **(51,240,762 ziyaret)**
 
@@ -19,9 +19,8 @@ Katkıda bulunduğu oyunlarla ilgili bilgi almak için [burayı](https://talent.
 
 `Lütfen Unutmayın! Ben Roblox personeli değilim. Hesap ve diğer sorunlar için Roblox Support'a başvurun.`
 
-### ROBLOX'TAKİ HAREKETLERİM
-Roblox platformunda 4+ yıldan beri geliştiriciyim.
-Şu anda sadece roblox.com'dan gelen işlerle ilgileniyorum. Portfolyomu incelemek için [buraya](https://sites.google.com/view/programmerbcrk/portfolio) tıklayabilirsin.
+### PROJELERİM
+Tüm Projelerimin hakları bana aittir.
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
