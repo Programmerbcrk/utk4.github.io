@@ -20,14 +20,15 @@ Katkıda bulunduğu oyunlarla ilgili bilgi almak için [burayı](https://talent.
 `Lütfen Unutmayın! Ben Roblox personeli değilim. Hesap ve diğer sorunlar için Roblox Support'a başvurun.`
 
 ### PROJELERİM
-Tüm Projelerimin hakları bana aittir.
+Tüm Projelerimin hakları bana aittir©️ Şu anda bir Roblox oyunu üzerinde ekibimle birlikte çalışıyorum. 
+Portfolyom: sites.google.com/view/programmerbcrk/portfolio
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Programmerbcrk/utk4.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### İLETİŞİM
+Discord: Programmer_bcrk#5914
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it e
+
+
