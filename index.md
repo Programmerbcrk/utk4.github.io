@@ -1,4 +1,4 @@
-## Welcome!
+## Hoşgeldin! 
 
 [RB Battles](https://www.roblox.com/games/5036207802/RB-Battles-BUSY?AssetId=5036207802) **(51,240,762 ziyaret)**
 
@@ -28,7 +28,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 ### İLETİŞİM
 Discord: Programmer_bcrk#5914
 
-### Support or Contact
+
 
 
 
